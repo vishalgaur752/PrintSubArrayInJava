@@ -1,2 +1,2 @@
 # PrintSubArrayInJava
-Arrays Topics
+Arrays Topic
